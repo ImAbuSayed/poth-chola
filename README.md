@@ -10,10 +10,10 @@
 |-------|---------|
 | Title | Poth Chola |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/poth-chola/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Music Licensing for Poth Chola](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Poth Chola](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
