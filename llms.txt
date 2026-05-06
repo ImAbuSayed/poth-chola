@@ -10,17 +10,20 @@
 |-------|---------|
 | Title | Poth Chola |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/poth-chola/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Poth Chola](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Poth Chola](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা এই মায়ার ঘোরে খুঁজছি আমি তোমার ছায়া
+> উদাস রাতের স্নিগ্ধ আলোয় ডাকছে তোমার গভীর মায়া
+> তোমার নামের ওই ইশারা দিচ্ছে বুকে অচিন দোলা
+> হৃদয় মাঝে বাঁধলো বাসা প্রেমের নতুন ডানা মেলা
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
