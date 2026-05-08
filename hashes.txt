@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Poth Chola
+
+This log tracks the cryptographic history and versioning for the song **Poth Chola** (poth-chola).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:52:25.099041 | `v1` | `53007f1d575dc12b92bcc18364ed4cc3b61b73c434b0ea34ee4e3bd669f442cd` | `606c47609ab14cf322a3b14e0c0252a064c7bc412ec733069a6cb3aba33c4a51` | `2026-05-08_poth-chola-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
